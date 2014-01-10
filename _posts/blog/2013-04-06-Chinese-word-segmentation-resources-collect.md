@@ -14,12 +14,9 @@ description: 收集的部分中文分词的资料以及一些很基础的概念
 
 ######分词算法准确度判定
 
-
-    准确率(P) = (分词结果中切分正确的总词数 / 分词结果中的总词数) X 100%
-
-    召回率(R) = (分词结果中切分正确的总词数 / 标准结果中的总词数) X 100% 
-
-    F = 2RP / (R + P)
++ 准确率(P) = (分词结果中切分正确的总词数 / 分词结果中的总词数) X 100%
++ 召回率(R) = (分词结果中切分正确的总词数 / 标准结果中的总词数) X 100% 
++ F = 2RP / (R + P)
     
 对于分词算法而言，通常用F值作为分词效果的一个总体评价
 
@@ -58,7 +55,6 @@ description: 收集的部分中文分词的资料以及一些很基础的概念
 [7]:http://technology.chtsai.org/mmseg/
 [8]:http://www-nlp.stanford.edu/software/segmenter.shtml
 [9]:http://trac.judou.org/trac.judou.org
-
 
 
 
