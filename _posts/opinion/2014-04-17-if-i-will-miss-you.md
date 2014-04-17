@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 来不及说再见
-category: blog
+category: opinion
 description: 
 ---
 
