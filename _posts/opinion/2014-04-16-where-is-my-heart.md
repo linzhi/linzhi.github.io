@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 心之所在
-category: blog
+category: opinion
 description: 
 ---
 
