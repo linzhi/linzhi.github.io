@@ -6,7 +6,7 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>博文杂谈</span></a></li>
-            <li style="text-align:center"><a href="/opinion"><span>诗词歌赋</span></a></li>
+            <li style="text-align:center"><a href="/opinion"><span>心语心愿</span></a></li>
             <li style="text-align:right"><a href="/about"><span>江南之恋</span></a></li> 
         </ul>
 
