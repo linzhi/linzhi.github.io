@@ -2,12 +2,12 @@
 layout: home
 ---
 
-<div class="index-content about">
+<div class="index-content love">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Article</span></a></li>
-            <li style="text-align:center"><a href="/opinion"><span>Prose</span></a></li>
-            <li class="on" style="text-align:right"><a href="/about"><span>Love</span></a></li>
+            <li style="text-align:center"><a href="/prose"><span>Prose</span></a></li>
+            <li class="on" style="text-align:right"><a href="/love"><span>Love</span></a></li>
         </ul>
 
         <link href="love/css/main.css" rel="stylesheet" type="text/css">
