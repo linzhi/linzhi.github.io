@@ -1,3 +1,11 @@
+---
+layout: post
+title: JavaScript学习笔记（一）
+category: blog
+description: 
+---
+
+
 ###JavaScript学习笔记（一）
 
 #####JS数据类型分为两类：
