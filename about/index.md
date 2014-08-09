@@ -5,9 +5,9 @@ layout: home
 <div class="index-content about">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>博文杂谈</span></a></li>
-            <li style="text-align:center"><a href="/opinion"><span>心语心愿</span></a></li>
-            <li class="on" style="text-align:right"><a href="/about"><span>江南之恋</span></a></li>
+            <li><a href="/"><span>Article</span></a></li>
+            <li style="text-align:center"><a href="/opinion"><span>Prose</span></a></li>
+            <li class="on" style="text-align:right"><a href="/about"><span>Love</span></a></li>
         </ul>
 
         <link href="love/css/main.css" rel="stylesheet" type="text/css">

@@ -5,9 +5,9 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on"><a href="/"><span>博文杂谈</span></a></li>
-            <li style="text-align:center"><a href="/opinion"><span>心语心愿</span></a></li>
-            <li style="text-align:right"><a href="/about"><span>江南之恋</span></a></li> 
+            <li class="on"><a href="/"><span>Article</span></a></li>
+            <li style="text-align:center"><a href="/opinion"><span>Prose</span></a></li>
+            <li style="text-align:right"><a href="/about"><span>Love</span></a></li> 
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
