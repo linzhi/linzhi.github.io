@@ -42,4 +42,4 @@ description:
 何日更重游？
 
 
-[1]: http://linzhi.github.io/about/
+[1]: http://linzhi.github.io/love/
