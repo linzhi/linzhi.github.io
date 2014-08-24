@@ -38,7 +38,7 @@ node函数默认是异步处理，上述程序执行会先打印出"over"，待I
 可以看到阻塞模式下，一个线程只能处理一项任务，要想提高吞吐量必须通过多线程；而非阻塞模式下，一个线程永远在执行计算操作，这个线程所使用的CPU核心利用率永远是100%, I/O 以事件的方式通知。
 
 
-![同步I/O和异步I/O图解](/images/sync_async_io.png)
+![同步I/O和异步I/O图解](https://github.com/linzhi/linzhi.github.io/raw/master/_posts/blog/images/sync_async_io.png)
 
 
 ####Node的异步I/O
