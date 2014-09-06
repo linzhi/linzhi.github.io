@@ -5,12 +5,6 @@ category: blog
 description:
 ---
 
----
-layout: post
-title:  python的可变对象与不可变对象
-category: blog
-description:
----
 
 Python 的内建标准类型有一种分类标准是将对象分为可变(mutable)和不可变(immutable)两种类型：
 
