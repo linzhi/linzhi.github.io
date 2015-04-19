@@ -14,6 +14,8 @@ description: 总结遇到的常见的日志打印问题
 ##日志监控
 
 ##案例
+
+
 Exception在error得输出 :
 
     try {
@@ -28,7 +30,10 @@ Exception在error得输出 :
      List<Long> poiIdList = PoiFirmMapper.queryPoi();
      Integer countInvalidPoi = poiIdList.size();
 
-    //log.info("find poi number is: %s", poiIdList.size());
+     if (isNotEmpty(poiIdList)) {
+         log.info("find poi number is: {}", poiIdList.size());
+         Integer countInvalidPoi = poiIdList.size();
+     }
 
 重要的接口调用:
 TODO调用第三方接口，针对第三方接口的异常捕获
