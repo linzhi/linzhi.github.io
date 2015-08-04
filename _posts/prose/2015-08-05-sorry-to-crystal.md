@@ -5,6 +5,7 @@ category: prose
 description: 
 ---
 
+
 亲爱的crystal，你是我这辈子第一次认真追求的女生，然而，我却让你伤透了心，许多心里话都不知从何说起。
 
 当你问我，我喜欢你啥的时候，我说我喜欢你，是因为你的笑，这个答案又虚幻又真实。当我看见你那可爱的笑容那个刹那，我就告诉自己，一定要尽自己最大的努力去疼惜她、让她幸福
@@ -25,8 +26,8 @@ description:
 
 
 
-`请原谅我笨拙的文笔`--`linzhi`
+请原谅我笨拙的文笔  linzhi
 
 
 
-![test](http://m1.img.srcdd.com/farm5/d/2015/0804/16/B3D4C4A9F5401B7EF86463645D77B0CA_B1280_1280_640_426.jpeg, "test")
+![crystal](http://m1.img.srcdd.com/farm5/d/2015/0804/16/B3D4C4A9F5401B7EF86463645D77B0CA_B1280_1280_640_426.jpeg, "crystal")
