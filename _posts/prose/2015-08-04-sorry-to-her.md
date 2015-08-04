@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:  相遇于似水年华
+title: 相遇于似水年华
 category: prose
 description: 
 ---
