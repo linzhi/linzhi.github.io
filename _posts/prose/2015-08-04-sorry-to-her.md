@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: 相遇于似水年华
+title:  相遇于似水年华
 category: prose
 description: 
 ---
@@ -24,9 +24,9 @@ description:
 
 另外，早上不吃早饭的习惯很不好，没有一个很好的身体，如何撑托起你的梦想。
 
-                        
-                                           
-                                    请原谅我笨拙的文笔--linzhi
+
+
+`请原谅我笨拙的文笔`--`linzhi`
 
 
 
