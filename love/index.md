@@ -19,7 +19,7 @@ layout: home
            <div id="to"><p>Hey girl:
            <br>
            <br>
-           Loved every morning since I met you for
+           Loved everytime when you smile
            </p></div>
            <br>
            <p id="clock">
