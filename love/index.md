@@ -16,10 +16,10 @@ layout: home
          <canvas id="heart"></canvas>
 
           <div id="words">
-           <div id="to"><p>Hey girl:
+           <div id="to"><p>Hey Crystal:
            <br>
            <br>
-           Loved everytime when you smile
+           Loved everytime when I see you smile
            </p></div>
            <br>
            <p id="clock">
