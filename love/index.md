@@ -26,7 +26,7 @@ layout: home
            <span class="digit">0</span> days <span class="digit">0</span> hours 
            <span class="digit">0</span> minutes <span class="digit">0</span> seconds
            </p>
-           <p id="end">miss u so much</p>
+           <p id="end">time is flying</p>
            <p id="from">-linzhi</p>
            </div>
           </div>
