@@ -82,7 +82,7 @@
   var interval = 2000;
   $('#to').fadeIn(interval, function() {
     $('#to').fadeIn(interval, function() {
-      var loveDate = '2015/07/06 00:00:00';
+      var loveDate = '2015/07/04 20:19:00';
       setInterval(function() {
         clock(loveDate);
       }, 500);

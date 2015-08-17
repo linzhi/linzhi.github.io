@@ -26,8 +26,8 @@ layout: home
            <span class="digit">0</span> days <span class="digit">0</span> hours 
            <span class="digit">0</span> minutes <span class="digit">0</span> seconds
            </p>
-           <p id="end">time is flying</p>
-           <p id="from">-linzhi</p>
+           <p id="end">时光飞逝 七夕快乐</p>
+           <p id="from">-- 琳智</p>
            </div>
           </div>
 
