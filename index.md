@@ -5,9 +5,10 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on"><a href="/"><span>Article</span></a></li>
-            <li style="text-align:center"><a href="/prose"><span>Prose</span></a></li>
-            <li style="text-align:right"><a href="/test"><span>Love</span></a></li> 
+            <li class="text-align:center"><a href="/"><span>随便聊聊</span></a></li>
+            <!--
+            <li style="text-align:right"><a href="/test"><span>Love</span></a></li>
+            -->
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
