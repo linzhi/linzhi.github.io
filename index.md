@@ -7,7 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>Article</span></a></li>
             <li style="text-align:center"><a href="/prose"><span>Prose</span></a></li>
-            <li style="text-align:right"><a href="/love"><span>Love</span></a></li> 
+            <li style="text-align:right"><a href="/love/test"><span>Love</span></a></li> 
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>

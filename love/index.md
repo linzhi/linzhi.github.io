@@ -16,7 +16,7 @@ layout: home
          <canvas id="heart"></canvas>
 
           <div id="words">
-           <div id="to"><p>Hey Crystal:
+           <div id="to"><p>Hey Girl:
            <br>
            <br>
            Loved everytime when I see you smile
@@ -26,8 +26,7 @@ layout: home
            <span class="digit">0</span> days <span class="digit">0</span> hours 
            <span class="digit">0</span> minutes <span class="digit">0</span> seconds
            </p>
-           <p id="end">时光飞逝 七夕快乐</p>
-           <p id="from">-- 琳智</p>
+           <p id="from">-- linzhi</p>
            </div>
           </div>
 
