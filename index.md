@@ -5,7 +5,7 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="text-align:center"><a href="/"><span>我们来和这个世界 聊一聊</span></a></li>
+            <li class="on"><a href="/"><span>我们来和这个世界 聊一聊</span></a></li>
             <!--
             <li style="text-align:right"><a href="/test"><span>Love</span></a></li>
             -->
