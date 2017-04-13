@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="index-content blog">
-  <section class="home-head">
+  <li class="home-head">
     <h1 class="home-head-title">
       <a href="/"><span>世界的記憶</span></a>
     </h1>
@@ -12,7 +12,7 @@ layout: home
     -->
     <div class="divider"></div>
     <div class="home-head-summary">TEST</div>
-  </section>
+  </li>
 
   <ul class="artical-list">
   {% for post in site.categories.blog %}
