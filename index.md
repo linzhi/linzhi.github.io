@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content blog">
+<section class="index-content blog">
   <li class="home-head">
     <h1 class="home-head-title">
       <a href="/"><span>世界的記憶</span></a>
@@ -25,6 +25,6 @@ layout: home
 
   <div class="aside"></div>
 
-</div>
+</section>
 
 
