@@ -8,11 +8,11 @@ layout: home
       <h1 class="home-head-title">
         <li class="on"<a href="/"><span>世界的記憶</span></a></li>
       </h1>
-    <div class="divider"></div>
-    <div class="home-head-summary">TEST</div>
     </div>
   </div>
 
+  <div class="divider"></div>
+  <div class="home-head-summary">TEST</div>
   <ul class="artical-list">
   {% for post in site.categories.blog %}
     <li>
