@@ -5,7 +5,7 @@ layout: home
 <div class="index-content blog">
   <div class="section">
     <ul class="home-head">
-        <li class="on"<a href="/"><span>世界的記憶</span></a></li>
+        <li class="on"><a href="/"><span>世界的記憶</span></a></li>
     </ul>
   </div>
 
