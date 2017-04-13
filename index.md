@@ -2,8 +2,8 @@
 layout: home
 ---
 
-<section class="index-content blog">
-  <ui class="home-head">
+<div class="index-content blog">
+  <div class="home-head">
     <h1 class="home-head-title">
       <a href="/"><span>世界的記憶</span></a>
     </h1>
@@ -12,7 +12,7 @@ layout: home
     -->
     <div class="divider"></div>
     <div class="home-head-summary">TEST</div>
-  </ui>
+  </div>
 
   <ul class="artical-list">
   {% for post in site.categories.blog %}
@@ -25,6 +25,6 @@ layout: home
 
   <div class="aside"></div>
 
-</section>
+</div>
 
 
