@@ -4,13 +4,12 @@ layout: home
 
 <div class="index-content blog">
   <div class="section">
-    <ul class="home-head">
+    <ul class="artical-cate">
         <li class="on"><a href="/"><span>世界的記憶</span></a></li>
     </ul>
-  </div>
 
-  <div class="divider"></div>
-  <div class="home-head-summary">TEST</div>
+  <div class="cate-bar"><span id="cateBar"></span></div>
+  
   <ul class="artical-list">
   {% for post in site.categories.blog %}
     <li>
@@ -19,6 +18,7 @@ layout: home
     </li>
   {% endfor %}
   </ul>
+  </div>
 
   <div class="aside"></div>
 
