@@ -4,11 +4,9 @@ layout: home
 
 <div class="index-content blog">
   <div class="section">
-    <div class="home-head">
-      <h1 class="home-head-title">
+    <ul class="home-head">
         <li class="on"<a href="/"><span>世界的記憶</span></a></li>
-      </h1>
-    </div>
+    </ul>
   </div>
 
   <div class="divider"></div>
