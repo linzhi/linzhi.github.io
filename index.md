@@ -3,15 +3,14 @@ layout: home
 ---
 
 <div class="index-content blog">
-  <div class="home-head">
-    <h1 class="home-head-title">
-      <a href="/"><span>世界的記憶</span></a>
-    </h1>
-    <!--
-        <li style="text-align:right"><a href="/test"><span>Love</span></a></li>
-    -->
+  <div class="section">
+    <div class="home-head">
+      <h1 class="home-head-title">
+        <li class="on"<a href="/"><span>世界的記憶</span></a></li>
+      </h1>
     <div class="divider"></div>
     <div class="home-head-summary">TEST</div>
+    </div>
   </div>
 
   <ul class="artical-list">
